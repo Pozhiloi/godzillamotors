@@ -1,0 +1,145 @@
+body {
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	background-color:  black;
+	overflow-x: hidden;
+	background-size: 100%;
+}
+
+ .logo img {
+ 	width: 135px;
+ 	height: 95px;
+ 	margin-left: 10px;
+ }
+.left {
+	float: left;
+	display: block;
+	font-family: 'Staatliches', sans-serif;
+	width: 50%;
+}
+.left h2 {
+	float: left;
+	color: #FFFFFF;
+	width: 350px;
+	margin-left: 25px;
+	margin-top: 140px;
+}
+.right h2 {
+	float: right;
+	margin-right: 35px;
+	color: #FFFFFF;
+	width: 350px;
+
+}
+.right {
+	float: right;
+	font-family: 'Staatliches', sans-serif;
+	width: 50%;
+	margin-left: 670px;
+	margin-top: 180px;
+	position: absolute;
+}
+
+.find {
+	float: right;
+	font-family: 'Staatliches', sans-serif;
+	width: 50%;
+	margin-left: 220px;
+	margin-top: 1530px;
+	position: absolute;
+}
+.find h3 {
+	float: right;
+	margin-left: 30px;
+	color: #FFFFFF;
+	width: 350px;
+}
+footer {
+	display: block;
+	width: 100%;
+	margin-top: 1000px;
+}
+.carta{
+	position: absolute;
+}
+.carta img {
+	display: block;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 2140px;
+}
+.carta h4 {
+	margin-top: 2150px;
+	font-family: 'Staatliches', sans-serif;
+	color: #FFFFFF;
+	margin-left: 100px;
+}
+.whatapp{
+	position: absolute;
+}
+.whatapp img {
+	display: block;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	margin-left: 500px;
+	margin-top: 2140px;
+}
+.whatapp h4 {
+	margin-top: 2150px;
+	font-family: 'Mukta', sans-serif;
+	color: #FFFFFF;
+	margin-left: 560px;
+}
+.whatapps{
+	position: absolute;
+}
+.whatapps img {
+	display: block;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	margin-left: 950px;
+	margin-top: 2140px;
+}
+.whatapps h4 {
+	margin-top: 2150px;
+	font-family: 'Mukta', sans-serif;
+	color: #FFFFFF;
+	margin-left: 1010px;
+}
+
+.skills h2 {
+	margin-top: 590px;
+	font-family: 'Mukta', sans-serif;
+	color: #FFFFFF;
+	margin-left: 560px;
+}
+.service img {
+	display: block;
+	height: 700px;
+	width: 520px;
+	position: absolute;
+	margin-left: 20px;
+	margin-top: 33px;	
+}
+.center img {
+	display: block;
+	height: 400px;
+	width: 330px;
+	position: absolute;
+	margin-left: 500px;
+	margin-top: 130px;	
+}
+.skills ul {
+	display: block;
+	position: absolute;
+	font-family: 'Mukta', sans-serif;
+	color: #FFFFFF;
+	margin-left: 700px;
+	font-size: 30px;
+	margin-top: 85px;
+}
